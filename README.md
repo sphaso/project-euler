@@ -9,3 +9,4 @@ P6: closed formulas for square of sum and sum of squares
 P15: combinatorial interpretation of the classic "walk the grid" problem    
 P28: instead of iterating over the spiral, I exploit the fact that one diagonal is the square of odd numbers and rings have even side length    
 P31: instead of using a classic recursion scheme, I implement the ring of polynomials and use a generating function
+P85: combinatorial interpretation of the classic "rectangles in a rectangle" and some basic algebra to reduce the search space
